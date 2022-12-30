@@ -1,0 +1,15 @@
+c:\Users\asd\Desktop\ompnk\bin\Debug\net7.0\ompnk.exe
+c:\Users\asd\Desktop\ompnk\bin\Debug\net7.0\ompnk.deps.json
+c:\Users\asd\Desktop\ompnk\bin\Debug\net7.0\ompnk.runtimeconfig.json
+c:\Users\asd\Desktop\ompnk\bin\Debug\net7.0\ompnk.dll
+c:\Users\asd\Desktop\ompnk\bin\Debug\net7.0\ompnk.pdb
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.csproj.AssemblyReference.cache
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.AssemblyInfoInputs.cache
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.AssemblyInfo.cs
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.csproj.CoreCompileInputs.cache
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.dll
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\refint\ompnk.dll
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.pdb
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ompnk.genruntimeconfig.cache
+c:\Users\asd\Desktop\ompnk\obj\Debug\net7.0\ref\ompnk.dll
